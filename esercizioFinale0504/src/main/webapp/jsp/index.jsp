@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1" import="it.epicode.esercizioFinale0504.controller.Controller"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +14,6 @@
 </a><br>
 <a href="listaProdotti.do" disabled="disabled">
 	Vai all'archivio dei prodotti
-	
 </a>
 
 </body>
